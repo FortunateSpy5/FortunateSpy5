@@ -18,8 +18,8 @@
 
 ### 🚀 About Me
 
-- ❄️ **Data Engineering & Cloud Warehousing:** Focused on architecting scalable data pipelines, data models, and analytics workflows with **Snowflake**, **dbt**, and modern SQL.
-- 🧠 **Generative AI & Agentic Systems:** Building autonomous agents, RAG engines, and multi-modal pipelines leveraging **Google Gemini**, **Vertex AI Agent Engine**, and **PyTorch**.
+- ❄️ **Data Engineering & Cloud Warehousing:** Focused on architecting scalable data pipelines, robust data models, and analytics workflows with **Snowflake** and modern SQL.
+- 🧠 **Generative AI & Agentic Systems:** Building autonomous agents, RAG engines, and multi-modal pipelines leveraging **Google Gemini** and **Vertex AI Agent Engine**.
 - 💻 **Full-Stack & Distributed Systems:** Delivering responsive web applications and performant backend services with **React**, **FastAPI**, **Node.js**, and **Python**.
 - 🎮 **Creative Engineering & Versatility:** Exploring computer vision pipelines (OpenCV, MediaPipe) and game mechanics & simulations with **Godot Engine**.
 
