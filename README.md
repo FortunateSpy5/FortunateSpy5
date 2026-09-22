@@ -39,7 +39,7 @@
 
 ### 🌟 Featured Highlights (Skills & Versatility)
 
-#### 🌿 [Sprout — Smart Plant Care Concierge](https://github.com/FortunateSpy5/buildwithgemini-sprout-plant-care)
+#### 🌿 [Sprout — Smart Plant Care Concierge](https://github.com/FortunateSpy5/sprout-plant-care)
 > **Generative AI • Autonomous Agents • Multi-Modal Systems**
 >
 > An intelligent plant care concierge built with Google ADK, Vertex AI Reasoning Engine, RAG grounding, Firestore, and A2UI (Agent-to-User Interface). Features persistent memory banking, custom code execution sandbox, real-time weather integration, and Imagen 3 / Gemini Omni multi-modal generation.
@@ -64,7 +64,7 @@
 >
 > Autonomous gameplay agent leveraging genetic algorithms to evolve neural networks across generations in Pygame. Features real-time visualization alongside headless accelerated training modes.
 
-#### 📊 [Machine Learning Algorithm Studio](https://github.com/FortunateSpy5/machine-learning-tkinter)
+#### 📊 [Machine Learning Algorithm Studio](https://github.com/FortunateSpy5/ml-algorithm-studio)
 > **Machine Learning • Data Analytics • Desktop GUI**
 >
 > Interactive analytical desktop application built with Python, Scikit-Learn, and Tkinter allowing users to import arbitrary datasets, configure train/test splits, and train/evaluate Linear Regression, Logistic Regression, Decision Trees, and Random Forests.
