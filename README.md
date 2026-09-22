@@ -44,30 +44,30 @@
 >
 > An intelligent plant care concierge built with Google ADK, Vertex AI Reasoning Engine, RAG grounding, Firestore, and A2UI (Agent-to-User Interface). Features persistent memory banking, custom code execution sandbox, real-time weather integration, and Imagen 3 / Gemini Omni multi-modal generation.
 
-#### 🔄 [Modern Data Transformation with dbt](https://github.com/FortunateSpy5/dbt-learn)
-> **Data Engineering • Cloud Analytics • ELT Modeling**
->
-> Implementation of modern data engineering workflows with dbt (data build tool), focusing on modular SQL transformations, data lineage, automated schema testing, and staging/mart dimensional modeling.
-
-#### 🤖 [Neural Transformer Chatbot](https://github.com/FortunateSpy5/chatbot-transformer-pytorch)
-> **Deep Learning • NLP • Neural Architecture**
->
-> Implementation and training of the Transformer architecture from scratch in PyTorch, utilizing scaled dot-product attention, multi-head self-attention mechanisms, and positional encoding for conversational generation.
-
 #### 🤟 [Real-Time Sign Language & Hand Pose Vision](https://github.com/FortunateSpy5/sign-language-detection)
-> **Computer Vision • Spatial Geometry • Machine Learning**
+> **Computer Vision • Spatial Geometry • Deep Learning**
 >
-> Real-time computer vision pipeline utilizing MediaPipe landmark extraction and OpenCV to track 3D hand poses and classify sign language alphabets with high spatial precision.
+> Real-time computer vision pipeline utilizing MediaPipe 3D landmark extraction and OpenCV to track 3D hand poses and classify sign language alphabets with high spatial precision. Features both ANN and CNN model architectures.
+
+#### 🔢 [Interactive Digit Recognizer Canvas](https://github.com/FortunateSpy5/digit-recognizer)
+> **Computer Vision • Convolutional Neural Networks • Interactive GUI**
+>
+> Interactive desktop drawing canvas application powered by a 99.65% accuracy CNN trained on MNIST with TensorFlow, featuring real-time image matrix pre-processing and dynamic digit classification in Pygame.
 
 #### ⚡ [Live Video Streaming Platform](https://github.com/FortunateSpy5/streaming-app-reactjs)
 > **Full-Stack Systems • Media Protocols • State Architecture**
 >
-> Broadcast client and backend server integrating React, Redux, and Node-Media-Server for live RTMP streaming ingest, stream key authorization, and multi-user video playback.
+> Broadcast client and backend server integrating React, Redux, and Node-Media-Server for live RTMP streaming ingest from OBS, stream key authorization, and multi-user video playback.
 
-#### 🎮 [Action RPG Engine & State Machine](https://github.com/FortunateSpy5/first-godot-game)
-> **Creative Engineering • Game Mechanics • State Design**
+#### 🐦 [Neuroevolution Flappy Bird AI](https://github.com/FortunateSpy5/flappy-bird-ai)
+> **Evolutionary Computing • Genetic Algorithms • Simulation**
 >
-> 2D action game engineered in Godot Engine with GDScript demonstrating finite state machines (FSM), hitbox/hurtbox collision management, dynamic entity AI, and modular scene architecture.
+> Autonomous gameplay agent leveraging genetic algorithms to evolve neural networks across generations in Pygame. Features real-time visualization alongside headless accelerated training modes.
+
+#### 📊 [Machine Learning Algorithm Studio](https://github.com/FortunateSpy5/machine-learning-tkinter)
+> **Machine Learning • Data Analytics • Desktop GUI**
+>
+> Interactive analytical desktop application built with Python, Scikit-Learn, and Tkinter allowing users to import arbitrary datasets, configure train/test splits, and train/evaluate Linear Regression, Logistic Regression, Decision Trees, and Random Forests.
 
 ---
 
