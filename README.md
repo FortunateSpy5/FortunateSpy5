@@ -44,6 +44,11 @@
 >
 > An intelligent plant care concierge built with Google ADK, Vertex AI Reasoning Engine, RAG grounding, Firestore, and A2UI (Agent-to-User Interface). Features persistent memory banking, custom code execution sandbox, real-time weather integration, and Imagen 3 / Gemini Omni multi-modal generation.
 
+#### ❄️ [Modern Data Stack & Snowflake Dimensional Modeling](https://github.com/FortunateSpy5/dbt-data-modeling)
+> **Data Engineering • Snowflake Cloud • dbt Core • Data Quality**
+>
+> Production-grade ELT dimensional modeling pipeline built on Snowflake and dbt Core. Implements Kimball dimensional modeling (star schema, facts & dimensions, SCD Type 2 tracking), multi-layer transformation architecture (staging, intermediate, marts), custom Jinja macros, automated data quality tests, and CI/CD validation.
+
 #### 🎯 [Real-Time Object Tracking with YOLOv5 & DeepSORT](https://github.com/FortunateSpy5/object-tracking-yolov5)
 > **Computer Vision • Multi-Object Tracking • Deep Learning**
 >
@@ -53,6 +58,11 @@
 > **Computer Vision • Spatial Geometry • Deep Learning**
 >
 > Real-time computer vision pipeline utilizing MediaPipe 3D landmark extraction and OpenCV to track 3D hand poses and classify sign language alphabets with high spatial precision. Features both ANN and CNN model architectures.
+
+#### 🤖 [Transformer Chatbot from Scratch in PyTorch](https://github.com/FortunateSpy5/transformer-chatbot-pytorch)
+> **Deep Learning • Natural Language Processing • Attention Mechanisms**
+>
+> Full vanilla Transformer sequence-to-sequence neural network implemented from mathematical first principles in PyTorch. Features 8-head multi-head self-attention, sinusoidal positional encodings, label smoothing, and Noam learning rate scheduling with conversational CLI inference.
 
 #### 🐦 [Neuroevolution Flappy Bird AI](https://github.com/FortunateSpy5/flappy-bird-ai)
 > **Evolutionary Computing • Genetic Algorithms • Simulation**
